@@ -75,6 +75,6 @@ python adivinanzas/app.py
 
 ### Bibliografia
 
-- Apuntes de la materia **Programación 1**
-- [Documentación oficial de Python](https://docs.python.org)
+- Apuntes de la materia **Programación 1** 
+- [Python](https://docs.python.org)
 - [ChatGPT]()
