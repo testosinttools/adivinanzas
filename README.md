@@ -77,4 +77,4 @@ python adivinanzas/app.py
 
 - Apuntes de la materia **Programación 1** 
 - [Python](https://docs.python.org)
-- [ChatGPT]()
+- [ChatGPT](https://chatgpt.com)
